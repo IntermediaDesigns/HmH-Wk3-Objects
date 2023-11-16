@@ -1,0 +1,9 @@
+#display, #arrayList {
+     padding-top: 5px;  
+}
+
+#buttonList {
+       display: flex;
+       flex-direction: row;
+       flex-wrap: wrap;
+}
